@@ -4,7 +4,7 @@
 
 ## 🔍 Research & Learn
 
-**1. What are common cyber security threats in a remote work environment?**
+### **1. What are common cyber security threats in a remote work environment?**
 
 - **Phishing Attacks:** Emails or messages that entice users to disclose credentials.
 - **Weak Passwords:** Easy passwords lead to unwanted access.
@@ -14,11 +14,11 @@
 
 **2. What are best practices for keeping your devices and accounts secure?**
 
-✅ Use **secure, unique passwords** for all accounts.
-✅ Turn on **two-factor authentication (2FA)** wherever possible.
-✅ Update **software & OS** to fix vulnerabilities.
-✅ Employ a **VPN** when working over public networks.
-✅ Monitor **account activity** regularly for suspicious activity.
+- ✅ Use **secure, unique passwords** for all accounts.
+- ✅ Turn on **two-factor authentication (2FA)** wherever possible.
+- ✅ Update **software & OS** to fix vulnerabilities.
+- ✅ Employ a **VPN** when working over public networks.
+- ✅ Monitor **account activity** regularly for suspicious activity.
 
 **3. Why is it important to lock your computer when away from your desk?**
 
@@ -38,7 +38,9 @@
 
 **6. Why is two-factor authentication (2FA) important, and when should you enable it?**
 
-2FA **adds an extra layer of security** by requiring a second verification step. Enable it for **email, cloud storage, financial, and work accounts.**
+- 2FA **adds an extra layer of security** by requiring a second verification step. Enable it for **email, cloud storage, financial, and work accounts.**
+
+---
 
 ## 📝 Reflection
 
@@ -74,15 +76,18 @@
 3. **Scan for malware** and ensure the device is free of malware.
 4. **Monitor work email & accounts** for further suspicious behavior.
 
+---
+
 ## 🛠️ Task
 
 #### Task: Cyber Security Action Plan
 
-✅ **Enable 2FA** for all work accounts.
-✅ **Use a password manager** instead of storing passwords manually.
-✅ **Set auto-lock** on my laptop and phone after 2 minutes of inactivity.
-✅ **New Cyber Security Habit:** Regularly review security logs & phishing alerts.
+- ✅ **Enable 2FA** for all work accounts.
+- ✅ **Use a password manager** instead of storing passwords manually.
+- ✅ **Set auto-lock** on my laptop and phone after 2 minutes of inactivity.
+- ✅ **New Cyber Security Habit:** Regularly review security logs & phishing alerts.
 
-**Next Steps:**  
-📌 Implement these measures immediately and encourage the team to do the same.  
-📌 Stay updated with the latest cyber security practices.
+**Next Steps:**
+
+- 📌 Implement these measures immediately and encourage the team to do the same.
+- 📌 Stay updated with the latest cyber security practices.
