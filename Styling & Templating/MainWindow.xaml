@@ -1,0 +1,28 @@
+<Window x:Class="StylingDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Styling & Templating" Height="200" Width="400">
+    <Window.Resources>
+        <!-- Custom Style -->
+        <Style x:Key="FancyButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="LightGreen" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                BorderBrush="DarkGreen" BorderThickness="2" CornerRadius="8">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <StackPanel VerticalAlignment="Center">
+        <Button Content="Styled Button" Style="{StaticResource FancyButtonStyle}" />
+        <Button Content="Default Button" />
+    </StackPanel>
+</Window>

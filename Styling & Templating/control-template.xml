@@ -1,0 +1,9 @@
+<ControlTemplate x:Key="CustomButtonTemplate" TargetType="Button">
+    <Border Background="{TemplateBinding Background}" CornerRadius="10" BorderBrush="Black" BorderThickness="2">
+        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Border>
+</ControlTemplate>
+
+<Style TargetType="Button">
+    <Setter Property="Template" Value="{StaticResource CustomButtonTemplate}" />
+</Style>
