@@ -77,3 +77,7 @@ Understanding this helps bridge the gap between development and operations.
 Code signing—especially with an EV certificate via Azure—is essential for delivering secure, trusted applications. While I may not be directly responsible for signing, understanding its role empowers me to better support secure development and deployment practices.
 
 ---
+
+### 🪛 Evidence
+
+![Image](https://github.com/user-attachments/assets/9b0c6e5d-7c51-46bf-af0c-50dfbde42da4)
