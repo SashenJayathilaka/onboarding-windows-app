@@ -63,3 +63,13 @@
 - Example: Use more informative task descriptions and break down large tasks into small, manageable sub-tasks.
 - Why? This is truer to tracking progress and prevents last-minute scrambles at deadlines.
 - A further area for improvement might be adding estimated completion times so that delivery and workload can be forecasted more accurately.
+
+---
+
+#### 🪛 Evidence
+
+> Screenshot of My Kanban board
+
+![Image](https://github.com/user-attachments/assets/9f3fac64-6617-4430-a9aa-7da6eee9c530)
+
+---
