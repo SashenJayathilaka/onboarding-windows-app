@@ -58,3 +58,13 @@
 2. **Identify one other role you frequently collaborate with and describe how you can improve teamwork with them.**
 
    - One of the roles that I work hand in hand with is QA (Quality Assurance). We check that the application is performing as expected and adheres to the acceptance criteria laid out by the Product Manager. To improve teamwork with QA, I can provide good documentation and help with test cases, so that the features are tested early and continuously during the sprint. This will reduce last-minute bugs and improve the quality of the application overall.
+
+#### 🪛 Evidence
+
+> Screenshot of My Markdown File in an Editor
+
+![Image](https://github.com/user-attachments/assets/9e769983-6993-4f3a-a234-7b3847ca2d56)
+
+> Screenshot of My GitHub Commit History
+
+![Image](https://github.com/user-attachments/assets/b19d2945-9463-4aa4-b3ac-32820abca6bf)
