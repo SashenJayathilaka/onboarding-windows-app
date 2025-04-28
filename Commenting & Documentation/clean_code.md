@@ -13,3 +13,12 @@
 - If it will soon be obsolete and cause confusion.
 
 Cleanly written code should stand on its own as documentation, and comments only augment it, not hide bad design.
+
+---
+
+### 🔒 Practical Evidence
+
+![Image](https://github.com/user-attachments/assets/424a0196-4d16-4e3b-8fe4-6c2ad437b0cc)
+![Image](https://github.com/user-attachments/assets/8b2ae5e6-15b8-4c3c-bf51-77e1ede52be4)
+
+---
