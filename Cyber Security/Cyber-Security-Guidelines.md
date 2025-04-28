@@ -91,3 +91,21 @@
 
 - 📌 Implement these measures immediately and encourage the team to do the same.
 - 📌 Stay updated with the latest cyber security practices.
+
+---
+
+## 🔒 Practical Evidence
+
+### ✅ Two-Factor Authentication
+
+![Image](https://github.com/user-attachments/assets/aa8608c8-13c8-452b-8dab-9a28c81221fd)
+
+### ✅ Password Manager Setup
+
+![Image](https://github.com/user-attachments/assets/d79b986f-d8f8-408a-8d8c-303646751320)
+
+### ✅ Auto-Lock Settings
+
+![Image](https://github.com/user-attachments/assets/0414dac5-8af7-4f09-8259-8aee39bd337d)
+
+---
