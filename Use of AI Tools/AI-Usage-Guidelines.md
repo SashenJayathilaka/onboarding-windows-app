@@ -88,3 +88,15 @@ Rely on personal skills for:
 **3. Document one best practice you will follow when using AI tools at Focus Bear.**
 
 **"Always validate AI-generated code and documentation before integrating it into production."**
+
+---
+
+### 🔒 Practical Evidence
+
+### GitHub Copilot
+
+![Image](https://github.com/user-attachments/assets/13325697-7181-4ff7-b908-cbef6dafb9c0)
+
+## ![Image](https://github.com/user-attachments/assets/6d87bfe9-3cb4-445b-8041-9df4ba0c96bf)
+
+---
