@@ -54,3 +54,11 @@
 2. Document at least one key learning or security measure you will implement.
 
    - I will ensure all confidential documents are stored in encrypted, access-controlled locations instead of local folders or unsecured drives.
+
+---
+
+### 🔒 Practical Evidence
+
+![Image](https://github.com/user-attachments/assets/4c29e4ce-8823-413a-b337-823a0060cce6)
+
+---
