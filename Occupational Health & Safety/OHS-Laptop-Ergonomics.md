@@ -65,3 +65,11 @@
 **4. Document at least one workspace change or habit adjustment you made.**
 
 - Adjusted chair height and monitor position for better ergonomics.
+
+---
+
+### 🔒 Practical Evidence
+
+![Image](https://github.com/user-attachments/assets/02738258-16a4-468e-baa1-98ab7e37d480)`
+
+---
