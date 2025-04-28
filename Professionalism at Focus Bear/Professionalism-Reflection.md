@@ -55,3 +55,11 @@ Receiving Feedback:
 - Reward and celebrate team wins.
 - Support fellow employees when they are struggling.
 - Be professional but also have fun.
+
+---
+
+### 🔒 Practical Evidence
+
+![Image](https://github.com/user-attachments/assets/cdf65eaa-38cb-4430-9e9c-314dac9fc286)
+
+---
