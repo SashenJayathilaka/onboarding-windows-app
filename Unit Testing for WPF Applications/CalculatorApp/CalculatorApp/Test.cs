@@ -1,4 +1,4 @@
-// In CalculatorApp project
+﻿// In CalculatorApp project
 public class CalculatorViewModel
 {
     public int NumberA { get; set; }
